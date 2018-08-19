@@ -1,0 +1,6 @@
+*~
+*.bak
+*.log
+*.rej
+*.orig
+/node_modules/

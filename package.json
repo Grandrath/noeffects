@@ -1,0 +1,10 @@
+{
+  "name": "noeffects",
+  "version": "0.1.0",
+  "description": "Decouple side effects from business logic using generator functions",
+  "main": "index.js",
+  "repository": "https://github.com/Grandrath/noeffects",
+  "author": "Martin Grandrath <m.grandrath@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
